@@ -1,0 +1,27 @@
+[11-Mar-2023 09:59:29 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 93
+[14-Mar-2023 04:10:25 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 93
+[15-Mar-2023 12:44:03 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 68
+[15-Mar-2023 12:44:03 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 68
+[17-Mar-2023 02:30:40 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 93
+[28-Mar-2023 03:27:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function w˚á∂ÖT-D]"h^ÉA-kHds íxa?úiµN$»j≥-˝…PICH-wToJUT+ÅUÂ˝c·iQ-8“hSs™rwgr-fX~TájC- eRHKıÊdÔJUTç(UÎ˜hSÄA)h®o]”zrwâv-h’N]x∫CÌPeSNCK&w`0JUõ-∏UE-dYÉ·-h8dÉ|z®x°v"dÂæTàfS-êoPHÉE6|dØäU·-IUH-fY£E-hçdU√rwjvÌfÉEÑ∏jC%µP∏MEw§oJUQ-sÂ@-jYi≈() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php on line 20
+[29-Mar-2023 05:57:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function gx() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/jvxgitaf.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/jvxgitaf.php on line 2
+[30-Mar-2023 02:31:53 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code:229
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code(229): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1): eval()
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20): eval()
+#3 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 229
+[30-Mar-2023 08:14:04 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code:252
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code(252): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1): eval()
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20): eval()
+#3 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/banks/wp-login.php(20) : eval()'d code(1) : eval()'d code on line 252

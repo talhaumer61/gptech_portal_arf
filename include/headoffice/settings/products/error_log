@@ -1,0 +1,16 @@
+[16-Oct-2023 09:51:23 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php(1): rMVkzxOKdZ('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php on line 1
+[30-Oct-2023 08:57:05 America/Chicago] PHP Warning:  Undefined array key -1 in /tmp/phpJWl603 on line 93
+[01-Nov-2023 09:18:27 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php(1): rMVkzxOKdZ('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php on line 1
+[25-Sep-2024 15:56:26 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php(1): rMVkzxOKdZ('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/products/nupijlnb.php on line 1

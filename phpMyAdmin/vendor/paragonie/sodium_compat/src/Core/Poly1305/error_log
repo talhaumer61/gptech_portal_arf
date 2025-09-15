@@ -1,0 +1,32 @@
+[27-Sep-2023 22:31:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Oct-2023 21:51:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/paragonie/sodium_compat/src/Core/Poly1305/State.php on line 10

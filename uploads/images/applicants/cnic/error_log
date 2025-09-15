@@ -1,0 +1,16 @@
+[28-Aug-2023 14:24:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 1e3±i<ee4ldoJd62<k˜28)7d<â-5bi¯“813Å-1e3fo2+Ï4eo*9628fcÒ8-çhG2*¬ad-8<3n-qe<oe0»eTËteJ9421hc28=7d72-4bağš8æ3õ-1nó±b65eäµlµG£6?;d¢[-7hÇ2º4^ad-248E­>Ù7fè2dõ4eneJ99y1dm25-G”94-4bgn->2<nö:eÈaµ?ee9ZÜeJ762?faâ7+çd‡2-dgah(Ø>³nÊ3ae<…e4edÅŠ9g2:Öf˜8 ÷7>“4badm:×3o-áÅ7b2ee>¥dÏŠ9æ2ánc28-7d;2Ÿ4oad-8²>…-1e>aµ9ke0ÅÔYú9V28fÁ2Ä%÷8-4bÒ*ø<3e-êÃaebb¢4edeº—691fã28!7„72-4Ad-??e-1i±e2ee4…deJ9:2!ÖcÂ8-7e7=-4bao-8’e-1e7aš2g`{ËkkJ5Ö21fi<8-Üd28-ôlne-¨23¥-1e3{i2enubleàÙ¡Â1fi:í7d72Ş4kad-823…ı1µ3ae2feøÕaeê?:²=¦m6<-7d§!?ma”-8’3e}1i:abe•”l„µJ962‘ÖÃ2è-j7>-4bQj-<’c-He3ae2o59eÔhŠ9VÂÑ–s28+d:Â4bao823h-1dóke2hm4edeê¶'9Á^c28)7är-8b‘A(ˆ235-‘e;ae2ee¡emeJ9621fc2]7T9Â$Äbnd­"òe-Ñeãao0eedÎ^eJâÆ2?¶c27-() in /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php:88
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php(100): sn9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php on line 88
+[16-Oct-2023 09:52:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 52ƒeíe3ae°e
+¤e„ecthu`f9æ2šfc)87”÷B-tB¡´*5&3¥.;e3ae=e›4edeGS´xjÆo77Ù1l³²8() in /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php:88
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php(100): sn9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php on line 88
+[29-Apr-2024 13:03:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function TbÁd-’ò3¥-Ñ¼óÑŸ2uf=fdeGD9>21iR2¸-8k() in /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php:88
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php(100): sn9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/uploads/images/applicants/cnic/ixcpumof.php on line 88

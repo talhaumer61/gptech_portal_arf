@@ -1,0 +1,14 @@
+[16-Oct-2023 09:51:25 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/themes.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/themes.php(1): stIrOGtz('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/themes.php on line 1
+[02-Jan-2024 10:41:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function fèn”U-Y}Y-gECπkaà’úMEYI-ÚIf() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/mgtwyanq.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/mgtwyanq.php on line 27
+[25-Sep-2024 15:56:50 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/themes.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/themes.php(1): stIrOGtz('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/_distribution_places/themes.php on line 1

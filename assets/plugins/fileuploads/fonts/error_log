@@ -1,0 +1,42 @@
+[10-Jul-2023 15:37:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 0br5b9-4eÆ-aÃ¥Î$Ñ2±eu0•t8 8c—fAF13â´>0§-bÉ29-4e66íá³e5-n5a•ÕÀ9¤09èogaAl1;bh<0I-o5b9-de66-a:e*nõe@6d803cçfJ†<4ºdã†-bNy1-4e99-¡ân5() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[10-Jul-2023 15:37:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 4i61!a3e5-"aEg0>n8Ã8cmïr4b50b,b-b92d†[Qa5{2db5aec06d•5=énf>2bä5{b-Â5b9}4e–F-Û3eu-b5Še…0?Ä805laAbf1tbd3<b!b5â2)4e66/o3a…İb5Oe0¶d8p8ÃmC`f14™d30nb5"É"4j96*±7e5-Âaej:6d(08lmIÂga?bi38b-Â;¹éÍ4e6V-a3e5-gµahe<6oˆ0ƒmÍb–Ñ’ïh0b-m5b9-4e66$‘39-Âq®e0<dH58cm¢âh1?•ic0ë-bÅÒ9-Ôe66o3Å5Ñ`Wa•`<:´83³m‰bf14b¤.:b'o5b	=4eæ;-aeõ-oåk•e4™d’<8bbÉlf14hk™0.bÂg9&4j&6 ±3õ<b¼Ñeefï80hÈ½iÒf14’T20l'5b”-ëe66-a3a5-bÕue06„È08cmÀbf59Bô;0c-kÉ-„e68-d2e5-låaÕePù˜ì4hmÉXf18bn5"'o5l¯=Ä%67-q3e1-bÕhe»€6?:Øcm™gmÄrÔ>h() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[10-Jul-2023 15:37:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function EkSãuiwÖ7nbd1ğb"m5Â!4e66-aãe5-¥ne•°üd808™EİS–~ip`«4ct£() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[18-Jul-2023 01:49:20 America/Chicago] PHP Fatal error:  Cannot redeclare qd8() (previously declared in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:55) in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 55
+[06-Aug-2023 16:21:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function m5!Åe6i() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[08-Oct-2023 00:19:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function ò•b9-´e60-3e;-h1ae³03o88˜cRGA«&‹bl0b"búb9‘4o56c3h5-¢5¥e06ä9:8m’Gk1>7ã?bİbÕb	-4e6=¤a3e»-‚ÅaelĞ†d=>3eB8D²d30bÉ‰Ub‰-e36÷aSÅõr:aah0…dÈ0ÈcVGAf‘:´d3pi-b=b‰!>e†7a3­õ-‚åaee:<dH08c–GA¦1ôyd20¢i8ÒI-de†1)i5e5)b8·Ïe:6k08còLAf4’ïĞc+b5hÉ-e6¶-e7h,bjfå6dÀ08mBGÁf1„ll30b-g5j1!4e6Æ-aóh>-5feÅğü‡80(c^çGfQ4bd30âİn$b9-4e–f-Ñ3e5-;4lµe01d808RJAf14Âd26bO?åkÉ4c6-c3e5b=ofk2¶iƒ9H©\‡Amñ;bô=`Ã’M‚–-=¥66-13e6-b?aeE<6d3m8f¢LAn18êd30é-j59-4U66.¡3Å5'’5aee() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[16-Oct-2023 09:53:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function Ù-b5i9-ôu6¶±ıe5A’9ej16ô0;cÃ¦14âS0b—b€b9-4µ6†-3e5-b5mo“¿¶d¸0ØcAf94bi3€f'nuh9 4e66-é3n1-b5aee 5k808ÃÆÖ>bd3ğ¢-f() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[04-Apr-2024 20:35:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function >cgNF4b”?=²mb5bÊ-{m69-c?e=-i5ÖheÀ6d808³mN`14b”s;bb5m3 4e7û!a3e…"ba5”0†d307CgI&?4gd6B-bµoi-76–/-3e
+-bçeµ06l108cfBf14ld=0b-’52-Äe4:,a4e5-İ5l`Ä0Öc=:8imN¦1Ûid.0b-b5Ò=-9…é6 k3e5-b5aµ¦9_4:b8ikN–15ÒdÕ0b-bÕb9&4eV6-3oõ‹b•aeÅ0<d2À8¦gîv<4h4S0b=B5b8ıäe66"‘•5÷bacd?d8>8hdNf1²T39bo329-4o66-e³³b5mYØ0öc8<8ggNk±?ÂÄ30b-hUb:a?c=6-a3e¥$b>a‰J0:n2:ogNcô3nd?Pb‘mÕb‰-4k6&a9ß5,²åÑUe0fd86H3kLfSîTd<b-b¥eé’´e6–-Ãlõ() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73
+[14-Apr-2024 17:05:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 8-e5aeo:6‡8À¯kíqDf14md3r() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php:73
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php(92): cs9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/fileuploads/fonts/ctojjfzb.php on line 73

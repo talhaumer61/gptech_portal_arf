@@ -1,0 +1,15 @@
+[16-Oct-2023 09:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php(1): obStxG('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php on line 1
+[25-Sep-2024 15:56:28 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php(1): obStxG('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php on line 1
+[05-Oct-2024 09:52:31 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php(1): obStxG('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/libs/cleave.js/xmlrpc.php on line 1

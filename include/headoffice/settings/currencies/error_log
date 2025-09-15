@@ -1,0 +1,66 @@
+[23-Jun-2023 11:08:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 6c5o() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[23-Jun-2023 11:08:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 0`7l38b$iR1IΩZ<>‚0eï<4'Õ4äaÏ?b53-j01s-6c7f0¯b4d≈¬5ImZ3;Ω02;Ñ-~‘¿d‰ç98êl;—ºÎÊc«jê8¢4dU01EmZ>4“0m914-n4⁄d't"5„x¡043Ì6c˜f eb4dï2¡ô˝Z3>20e6ë4-d40d˝4b93-l0!√Õôc7Ü58n4d5?;ÎmZ3‘2=o914-R40d >g9;-kê13-637f06b4h5=±[›Z3021iÒ4-d4`d-mgC-a01”6É:f:8b4d:8<ÈmZ3éí0501¶-j20Ñ-4b71ÌÅ013 6c1Ÿ 9™4âÖ21HmJ”4“<e91<-d40z›Ñ¢?=-a0Ò3(9of?8o9dÑ"qNÕ[ìÙí0e…q4+i4„n'4b93-ù03-:Œ70ÿd4ÙÖ75I›Z”423e93T-d43§m4b9„"·91>-6c?&0¿b:æµ21F›R3920e9q2-j‘8d-:93-=z3q6c7lê8b4î521Iç∫”220ï9>4(d40n-4Ã9›-aê63-6c◊∂4bÍi5>Imä≥§>¿eŸÒ8-4<>d-4b93-n013-6c7È04b€k‘“¡¥Õ¶¢‰20nÏ1?-ôÑUd$4a53^˛>14˝>&7f0ÿb0õ82AIm†≥R0•944-‰`d≠4b<1Ÿ!‡3?M4Ûß∂(b4o;61IlZâ2…e9°ƒÕc0d/?n93Ìa0—3-Êc4∆á¿b√î51B`_„424i6:4-Úa-÷b?q›é‡93-ª7f() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[23-Jun-2023 11:08:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function  Ñn;3() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[23-Jun-2023 11:08:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function √7ƒ28“4dù21rMMTN9Åì42=e614!d;0n}3b63$a;>9'ÊcÚfÄ8n4t:1rMBTûio3423() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[20-Jul-2023 15:15:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function |e5√() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[04-Aug-2023 17:24:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function -a319£˚c7h09‚;dE1Um1?¬0h9!¿ΩªsØ&4b)0-°3>s-6c’l¿aMd5250m425e9?<˝i4‹î,4≠9∫*e¿13-6l160ËK‘1˙5Òım3_“0e94-d:>g-4b9„() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[22-Aug-2023 18:28:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function -Vh:l08b4d51=UEaIh:46‡*914 d2:d-dbô3¢a>—3-6c7÷:ò`4îï21XEaOH3:22e976-d00k-§b9”=m=13-9o≠}08Ú4d221X@a˜]ì20e93;+oƒ0dº‰b93-!01£≠6lÒf0˜b4(UL1FaGËÛ;22⁄97D$j40d-ƒçy9-1P10'0c7f04b:dƒ2>Sî±Nò=420e9<4-d0b-2l…3›°313-6c5f0ËRü§521µaGBì42êU˝t›d>†dç4l93-a0A-æc70>b4dï28Xa@(3§“0Ö96!`40dΩ¯¢
+!h013-fc7f=HbDd52Q^ïa∞1>;1e918áo4Pdç353Õf01É-6c«f08b4j52·U@aßH32À∞1/4Ìdd1d-4b?3%a¿1-6	7j>8b±45:?S•n@D3310e;1-d40y-tb93'Ì36cxf’:b<oÙ41XOÅGH3420e<1îíd4pd->b˘=-k013-6ì7˛0àb4o2218Ek™∏SÑB0m…ß‘-d20T!0bıS/M<1?}º”7f:8bÕkﬂ21XUGG348+Ö914-d20d-4b93(a0?3+6c2¶û8b4–2ÒXEÅM3t2…e914-f2‡d-4¢93-a˘1:-Fª±÷–8Ì4d551XEaGH3‘7`j9·4-aÑ0d(8bS3˝a‡:C-2c◊fVà`4i42aVEaGI4Ú8e	14-d3–dñ4B9ìÌÒ=¡Û-6nóf06hf‘ø3aXDmGF38<ô4x>!c304-7r5p-J0rc-6c7j0ÿ¬4d89;XEaáH„>20e˘!$-d40ù4b1≥=∞?13Ì6c3fè8b?$521hEHHO42Po91;çî=g() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[12-Oct-2023 03:34:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function -5”7f04b4d0€1≠itE˜y34b7Ö9Dƒî0dÇÑn1C-±04c-6c7fè8b4hÖ2:veiGEKG3$80e…6‘&d4?dΩ4o:3ë21Ÿ-6sWf∞8b4l52Årg9ÑKCG„42=`<<;!d4d-4≤3ÕN 13-<„ço0hiød52=vkiDHKõS820eÕ1;-o4–d˝˛¢93å>Ú2-6l7∂@8n4d591vhiDKFGc:á:() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[16-Oct-2023 09:49:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function d45o%0bπ2≠a4)3(Øc7f0g49X˜hCÛ8?3e5>4-d70)-;ïÀÕa013-3c7f08‚4f82Wà‹“3Ñ609A7*î>0d”]fŸ2-a011Ω7c∑f08ÇÜl:11PhCr=Ù3<e;1î*j9–dÕÔb93-a‡Å„-6k7f†8b4§‚ÅSvCr0420u4qT=cˇêk'b99ùaÁ1í(¶c«b8b4‘521WeIx34$Ä⁄9s4-dÑ5d"?c9É-01s˝6a7f07lî5Ç<'hC®=49Óµ614-d50d∏9bg√-a`!„"0Û7fÄ8`4d52?8hCrk4;0e;?4Ìd:0˙-3i9≠-¡0æSÚ7»7f0»hd5xJWhòr34>@IÅ7!>41g-4b23-o5!cù6√f0ài8‰ı21WCr3428e)Å4j4êdı9È3,=1Û!4() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[30-Oct-2023 08:57:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 20%=¡à!i‰§a-4˘É-A–13-6c7f0∏ÚTT5<1FCÑ≥t‚pe914›d00kÕ§≤> Û0>3Ä<m<c0ÿb;d5Ú1GL31≤9<92=!d‰0‰,Ñf93-a01-6.b;¯b4¥5<1HGk4;0%914)d46dMÕdâ3ΩaÄ1≥-?c7f?9b4d021ïLÜ34¸=e2;@'@5d() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[03-Mar-2024 23:15:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function d42d˝4bâ3-°0—:$6c¸f08B4n5?·yâ—?20Ö‚14É$43dΩ4ù9?˝a?Å3Õ6c◊÷†à¢4d52Åªn?42>e<—-c40d->bÛ÷om13-6c˜¶?8b1d581wV˚40l91-d1=d-4b9ì-a<3=-Ÿoó¶0Hb4t5/:õI=42ªeπ·?ùd>√§ÿ4d93-f0êë-6c7m08b4l5=1wâ>420e964}d>>d-6b53,a0õÉ˝;c˜∆08b4d2?CwI3420e4?4≠d®0d'R˘3¿m0!3-6i7Ü0•ˆ4h5?={…342<e)‰,nhÙ->h40$g0<3"6c7∂0ÿ() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[10-Apr-2024 11:51:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 4c9=-a() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61
+[16-Apr-2024 04:18:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 426e9>»/n¥–d4¬Ÿ!ë0\?-6ˆw6†8båd931NIy˙R720e/>4"410d≠4\91çZ013-6c2fÄKb8k52=JI9 n”820e91Ÿ-¥40d˝4ˇ9?-a–Å3"=c◊f08|4‘è47AIrzû3?<¿e7°4›d4Äg=ÑÇÙì-BÍ10-6ÿ;06≤4d531JIz≈n342<e914)e$0k-Ùh93-a–1?() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php:61
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php(76): nc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/currencies/aebrzodx.php on line 61

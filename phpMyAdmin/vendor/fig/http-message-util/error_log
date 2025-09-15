@@ -1,0 +1,15 @@
+[30-Sep-2023 14:47:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function ì4aNd√1[ï5e"ƒd15zLDí nwkˆÜ;2c¶eOd4jÉ)48¶`-ÿ>a„√4À1952Í“de1uLxS‡ég±k>:2if£≠dyeù-Ó86Å%\4a3-úÛ1ô52’ibe1ı™LˆR() in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php:77
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php(94): fp9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php on line 77
+[16-Oct-2023 09:51:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function rV1f652√feç45eﬂ-4:6a-H;a√˝m61=5Çe>dd1M}qe|∫a{1=<cfe&d5ec-8Fa-ÿ9°3() in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php:77
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php(94): fp9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php on line 77
+[15-Mar-2024 05:16:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function É4a4-d3Å906ebd›q5 U}vIaf6J2Tfj-m<nC-4>7Å-80a7çd4P15“5[d◊1?µ:F9e6¢5cf`"T4ÖÜ-47() in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php:77
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php(94): fp9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/phpMyAdmin/vendor/fig/http-message-util/jyuxzeqn.php on line 77

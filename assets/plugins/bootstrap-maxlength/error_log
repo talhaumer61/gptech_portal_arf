@@ -1,0 +1,4 @@
+[10-Mar-2023 13:10:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function nx() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-maxlength/options.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-maxlength/options.php on line 2

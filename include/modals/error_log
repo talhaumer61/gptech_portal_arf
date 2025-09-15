@@ -1,0 +1,42 @@
+[29-May-2023 01:24:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function nÓƒ8ml2–5623»hh9nk>5Ècf7S!ê1e-;”™xÍbÃã;Æ75–’37bm4‘E45æ`f7341eµ-4493)Ò338-:7f5:ïãíbf1fae351jf:=-4Q=-469= bƒ38-f7;4139af4vlXT5f‚f73-4še5-%?;8'h“?ø-†‡f=ö2:of4fÁ4•kci½ÃGÄñ…;ý547Œ"bcs7-;m;æ¤Ã7ffme4µ¸cj73=:ÏÅ0-4>9˜&iÓ9xnjç3•623÷bfôkå45fcf33Í41e(4977-bc() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[03-Jun-2023 22:11:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class "È‚lØ¶=¥5<mf1Öe¢ÜXU45fãö‡3-4Qc5->äY8.bÓ38 –3f5h2Ò=M¦4ceL«G¥4}fcf<3ýôe5M4©96Ýbn37-b7æ5q11×g­÷Æ‰IˆEe48f£¶òã-2>f5449‘-iS38-o	f5‹237gf¢ÚebEŸe4Úfl^78/41e?$4" not found in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[17-Jun-2023 06:59:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function ˆ1eÕ-249(-’ƒƒ8-f7–96r3×of?€‚e€µm3Æ59*91b5í6dIÂÊc5hMÊ'k5Æ2£çbf4fbaë8¶lÆ?=-41•4-439¡'Ga3Ð-ff¥6937bh0fbe1Õfjf73M4QÅgQÄ4þ˜ä,n94ÍÖ7k•<23‡bm¤mbj”5nif:Ó"3;eÍÄ4ëˆ,amÓ-nf5=23:²f4Ö’…4?lc`—3u1¥×-4894-bc38ßi7651217bfèbe4elmf92+4’:-3d9(ñhc¦Ò,f©Ö56å4Çb¶4fbh?;nl‡?}41e5,0Ø-bn<Ë iGfÕ:23Œl¦4gbu45fcfg8éØe5-ô428-ùãÃ;-eçf5™2ûknm4lceë86if?3-4;ÓeS˜98-²ƒ3Øf7f8623÷b¦4fÂe”5fcf=3-41{5-28Y8íb“() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[17-Jun-2023 06:59:25 America/Chicago] PHP Fatal error:  Cannot redeclare ff8() (previously declared in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:58) in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 58
+[17-Jun-2023 06:59:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function b®ó8íÉ6k5Ââ:—fÖ>mRÑGooedåfh63­4aeõ(Ô498!`Ç8Ýf7f5623Öf–4†^qG`ˆnd1fcf7“"âáeåvÎ458'l,ÎÈ-†—656238af?møQgognÄµfco73-4±…µ×449hÍÒcc8%f7n5623¦fÔ]X~Gog¾?5fc‡3Å41e5-Æ4=ˆÂ38-ffÅÆ257b,4fUèkge”5fmm79-ÔU544Y1-em³4(l>f5v6>7B–njX{GÕoeå5fif?<-4?e;-449ˆ-bcÈ0ýa÷F•" ËifzfXÁL8gÅdÅ`s¶7M41…5.949ø-cd3i-f:k5;’<7jf„fFqCog¥„5f`ö=s-2¡e3ù4‰È-bcÃ>Ía÷f523gf4ÆX{—kk…4Öh†73-;1 5 44Ù8Ýgc˜8f7f…[2Ñ9"eXiYÑGo-Å45fÓfÜï-,1e5-0;98ÍbcÉ8íc?F•633<bf4kXq—¯dj4¥fÓö7G­ë1f6õq428() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[17-Jun-2023 06:59:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 41UÕ‰„>95'b³3ø f6F5623¢f4vCJeD§fsf03?Å>+44¼8‡B’8õuf7f5629’f4Üƒ[d45fc–I3->2Ì-=7´8àkc3É+f7fé6?38Mæ0iCCe6¿hf73-7Ëe…)44™? bc38"f7f<6Â3=bf>fCK¤45fbf73/Ô;e5() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[21-Jun-2023 22:52:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function T1;Í4„Üˆ/‚c98'f7f562?7§×$kLnGij4E£À7ƒ-41e5-449<)fk3<-f5j56âã‡bÜz¦L›WieÄ5fÑf>"4‘en-4966bc36-¶÷…6¢37bf3mBaie45j£†73ý4Ñ5-4488() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[05-Sep-2023 18:03:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 3g÷h58237hf¤fNwGzfd45fcf¯3-6%¥]$ÄY.33Ë,)>f;3r37bm>¦H­Gfzfe;5fm73=4±e9-049è-bfã8MfçfÉ62<7=f4æžwGc;iÚ45fcj7³-91e5'498-jcƒÎ-¦7c5;23÷Ö4e½£eqfiTPbhn7ã(4Ae•-48Ü3-Ic?-f2f562“7bf4óGewj…K?icf7341e3-9ô8=bc38âÖç–5†937šn4fîwGÕw†`55fc¿7ã/40…ÿ—9Ä58-fg39-f;–5697bh4fþwG•†µ$2vck×s&41e•4458-Òcó?-&7f46:37bCtfNºGb‘Æd”5fcf7Ý8:»Å.;Ä9<cc8)f—f56ÒÝpbf4fNw‡&qfeþÕf“˜
+ù-415(ä698-bƒ38-¦7f5›<37mk4öNwBe}¾Ä9ºjf3-11i5"44‰6'bc³Ø-F[86Ò37bf4nC£§izfl4<¶ah7ìý41µ5!:46Á-Ò`3x-f;5–2:7¢k=6M|Geqfjß%fmv:3'Ä1e5-4298ýic0; fWjEæi17£–4ÆNG`áe?5fÖ73-t5?-¤?i7 bc38f7f56ò“:bh„cBwGeqlo75fcb<3-41e5-4ä9('bc88,-÷&56B37bn9iCxIuqlg48¶cf§3-c1•8N»9˜Ðbc8-fÛÖ5663§‚fTcMw%qf•Ä5fcf'3/´-Û5 4Õ98¡Âc3f;f52ã9bf4fNwHe}fc4õfCi7-Ä1e5(4Äé+bc38-fÇf±693;gf=bNwNô¡–e45fci7-41ÕÕ-=298-bc68!f7f56<37b¦:bNwGbqlÅ75†chç<"41õ5Ýdû9<-£†ã1Í¦7f%6ß02lf4fNwGeqnµ4²fc–À2-:1i5-„4>8!bc38-f·fo6¾ã;ÂF4l@wúh‘f¥4fg7=-Áe>-44ˆ8-’î3<-f7&:ÆR<;²iÄfžwerÆi2I–¸f;3ýT1e0-t“8() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80
+[16-Oct-2023 09:54:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function oc38() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php:80
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php(88): cc9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/modals/pmvxymgo.php on line 80

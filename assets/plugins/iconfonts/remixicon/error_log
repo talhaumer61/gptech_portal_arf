@@ -1,0 +1,5 @@
+[16-Oct-2023 09:52:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function HHxx^§A×A}‰D{|-—%LmGRClËrJ}trTkI-‡¹Jÿu-ÀzIqMëL
+¨eGA7Lq©DfqÍggA() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/iconfonts/remixicon/mluzvtoj.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/iconfonts/remixicon/mluzvtoj.php on line 24

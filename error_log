@@ -1,0 +1,1018 @@
+[10-Mar-2023 12:26:47 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-Mar-2023 12:26:47 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Mar-2023 12:24:53 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Mar-2023 12:24:53 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Mar-2023 12:27:22 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Mar-2023 12:27:22 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Mar-2023 16:45:08 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Mar-2023 16:45:08 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Mar-2023 12:25:04 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Mar-2023 12:25:04 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Mar-2023 14:35:08 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Mar-2023 14:35:08 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Mar-2023 15:49:48 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Mar-2023 15:49:48 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Mar-2023 16:31:36 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Mar-2023 16:31:36 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Mar-2023 16:34:03 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Mar-2023 16:36:30 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors/query.php(13): dblms->getRows('app_donors_volu...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/donors.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[28-Mar-2023 16:36:59 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors/query.php(13): dblms->getRows('app_donors_volu...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/donors.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[28-Mar-2023 16:38:30 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors/query.php(13): dblms->getRows('app_donors_volu...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/donors.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[29-Mar-2023 09:55:29 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-Mar-2023 09:55:29 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-Mar-2023 16:43:44 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-Mar-2023 16:43:44 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-Mar-2023 16:49:10 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors/query.php(13): dblms->getRows('app_donors_volu...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donors.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/donors.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[30-Mar-2023 14:17:33 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[30-Mar-2023 14:17:33 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Mar-2023 11:38:03 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Mar-2023 11:38:03 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Mar-2023 13:51:10 Asia/Karachi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 21
+[31-Mar-2023 13:53:36 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Mar-2023 13:53:36 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Mar-2023 13:53:56 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:146
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(146): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/about/list.php(10): dblms->getRows('app_about', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/about.php(25): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/about.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 146
+[31-Mar-2023 13:54:42 Asia/Karachi] PHP Warning:  include_once(donation/donations/query.php): Failed to open stream: No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 2
+[31-Mar-2023 13:54:42 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'donation/donations/query.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 2
+[31-Mar-2023 13:54:42 Asia/Karachi] PHP Warning:  include_once(donation/donations/list.php): Failed to open stream: No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 26
+[31-Mar-2023 13:54:42 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'donation/donations/list.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 26
+[31-Mar-2023 13:54:50 Asia/Karachi] PHP Warning:  include_once(donation/donations/query.php): Failed to open stream: No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 2
+[31-Mar-2023 13:54:50 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'donation/donations/query.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 2
+[31-Mar-2023 13:54:50 Asia/Karachi] PHP Warning:  include_once(donation/donations/list.php): Failed to open stream: No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 26
+[31-Mar-2023 13:54:50 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'donation/donations/list.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donations.php on line 26
+[31-Mar-2023 14:21:12 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Mar-2023 14:21:12 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Mar-2023 15:05:58 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Mar-2023 15:05:58 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Mar-2023 15:11:15 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:11:38 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:12:18 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:13:18 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:16:16 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:18:46 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:19:07 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:23:06 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:24:18 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(96): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:25:46 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(95): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:29:12 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations/query.php(96): dblms->getRows('app_organizatio...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/organizations.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/organizations.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[31-Mar-2023 15:40:59 Asia/Karachi] PHP Warning:  Undefined variable $state_id in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/area_settings/states/query.php on line 91
+[31-Mar-2023 15:40:59 Asia/Karachi] PHP Warning:  Undefined array key "adm_id" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/area_settings/states/query.php on line 93
+[31-Mar-2023 16:09:45 Asia/Karachi] PHP Warning:  Undefined array key "dv_email" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/packages_causes/query.php on line 94
+[31-Mar-2023 16:09:45 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php:137
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php(137): mysqli_num_rows(false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/packages_causes/query.php(102): dblms->getRows('app_packages_ca...', Array)
+#2 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/packages_causes.php(2): include_once('/home4/jo370xfr...')
+#3 /home4/jo370xfr/public_html/portal.arf.org.pk/packages_causes.php(10): include_once('/home4/jo370xfr...')
+#4 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/dbsetting/classdbconection.php on line 137
+[01-Apr-2023 12:12:25 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[01-Apr-2023 12:12:25 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[01-Apr-2023 12:13:17 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[01-Apr-2023 12:13:17 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[01-Apr-2023 13:14:57 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[01-Apr-2023 13:18:35 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[01-Apr-2023 13:22:25 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[01-Apr-2023 13:25:13 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[01-Apr-2023 13:27:42 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[01-Apr-2023 13:35:58 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[01-Apr-2023 16:21:20 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[01-Apr-2023 16:21:20 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[01-Apr-2023 16:39:21 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php:142
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/events.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/events.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php on line 142
+[01-Apr-2023 16:39:36 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 16:39:36 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 16:39:36 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 16:39:36 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 16:43:20 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php:34
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/events.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/events.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php on line 34
+[01-Apr-2023 16:50:35 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php:192
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/events.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/events.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php on line 192
+[01-Apr-2023 16:50:52 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php:192
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/events.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/events.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php on line 192
+[01-Apr-2023 16:51:11 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[01-Apr-2023 16:51:11 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[01-Apr-2023 16:52:00 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php:192
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/events.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/events.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php on line 192
+[01-Apr-2023 16:52:04 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php:192
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/events.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/events.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/query.php on line 192
+[01-Apr-2023 17:02:57 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:02:57 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:02:57 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:02:57 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:08:53 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:08:53 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:08:53 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[01-Apr-2023 17:08:53 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[03-Apr-2023 11:48:48 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Apr-2023 11:48:48 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[03-Apr-2023 13:27:07 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Apr-2023 13:27:07 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[03-Apr-2023 14:49:11 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Apr-2023 14:49:11 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[03-Apr-2023 14:59:27 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Apr-2023 14:59:27 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[03-Apr-2023 15:54:05 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Apr-2023 15:54:05 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[03-Apr-2023 17:42:16 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Apr-2023 17:42:16 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Apr-2023 14:03:06 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Apr-2023 14:03:06 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Apr-2023 17:22:13 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Apr-2023 17:22:13 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Apr-2023 17:27:27 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:28:04 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:29:41 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:30:07 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:30:37 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:31:16 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:31:49 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:32:14 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:32:45 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:33:21 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:33:56 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:34:32 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:35:08 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:35:38 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:36:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[04-Apr-2023 17:37:31 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Apr-2023 17:44:26 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Apr-2023 17:44:40 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Apr-2023 17:44:55 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Apr-2023 17:45:10 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[05-Apr-2023 10:56:03 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 10:56:03 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 11:47:14 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 11:47:14 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 11:47:31 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 11:47:31 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 15:49:43 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 15:49:43 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 15:51:23 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 17:05:16 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 17:05:16 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 17:06:36 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 17:06:36 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 19:58:16 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Apr-2023 19:58:16 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Apr-2023 20:30:50 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:32:17 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:33:22 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:35:24 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[05-Apr-2023 20:38:53 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:41:28 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:42:28 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:43:33 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:45:07 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:47:31 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:51:49 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:52:54 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[05-Apr-2023 20:54:31 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:56:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:56:37 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[05-Apr-2023 20:57:28 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:58:10 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 20:59:05 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:02:44 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:03:53 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:04:53 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:07:42 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:08:45 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:10:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:53:50 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[05-Apr-2023 21:55:16 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 10:23:20 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Apr-2023 10:23:20 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Apr-2023 10:28:03 Asia/Karachi] PHP Warning:  include_once(include/accountant/packages_causes.php): Failed to open stream: No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/packages_causes.php on line 10
+[06-Apr-2023 10:28:03 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'include/accountant/packages_causes.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/jo370xfr/public_html/portal.arf.org.pk/packages_causes.php on line 10
+[06-Apr-2023 10:37:40 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Apr-2023 10:37:40 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Apr-2023 14:20:41 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Apr-2023 14:20:41 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Apr-2023 14:21:01 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Apr-2023 14:21:01 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Apr-2023 14:22:45 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:34:54 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:36:19 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[06-Apr-2023 14:38:02 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:38:49 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:40:05 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:43:46 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:45:18 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:46:13 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:47:02 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 14:47:56 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 15:08:30 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 15:12:19 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 15:14:50 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 15:18:23 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[06-Apr-2023 15:21:22 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:34:00 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[07-Apr-2023 11:34:00 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[07-Apr-2023 11:39:42 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:41:04 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:44:18 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:50:44 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:52:13 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:54:33 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:55:25 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:56:07 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 11:58:42 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:00:11 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:00:59 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:03:48 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[07-Apr-2023 12:05:31 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:07:34 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[07-Apr-2023 12:08:15 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:09:21 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:11:11 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[07-Apr-2023 12:12:39 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:14:00 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:16:08 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:18:29 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[07-Apr-2023 12:20:02 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 12:21:40 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[07-Apr-2023 13:31:25 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[07-Apr-2023 13:31:25 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[07-Apr-2023 13:33:48 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:39:29 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[07-Apr-2023 13:39:29 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[07-Apr-2023 13:40:23 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:42:01 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:43:00 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:44:24 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:46:04 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:46:50 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:47:28 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:48:30 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:50:01 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:50:36 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:51:19 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:52:16 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:53:17 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[07-Apr-2023 13:53:44 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[18-Apr-2023 15:10:27 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[18-Apr-2023 15:10:27 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[18-Apr-2023 15:10:28 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[18-Apr-2023 15:10:28 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[18-Apr-2023 15:10:29 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[19-Apr-2023 04:25:05 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[19-Apr-2023 08:51:10 America/Chicago] PHP Parse error:  syntax error, unexpected string content ", __FILE__ ) /*7*/ )/*s*/) ;" in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/charts-nvd3/.0582ab8c.mo on line 62
+[04-May-2023 16:25:39 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-May-2023 16:25:39 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[16-Aug-2023 13:01:56 Asia/Karachi] PHP Warning:  Undefined array key "login_pass" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 26
+[04-Sep-2023 14:14:17 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Sep-2023 14:14:17 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Sep-2023 11:37:27 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Sep-2023 11:37:27 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Sep-2023 13:05:17 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:07:03 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:08:16 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:09:42 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:13:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:16:33 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:16:51 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:26 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:27 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:27 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:27 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:28 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:28 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:29 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:29 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:29 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:30 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:30 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:30 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:31 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:17:31 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:16 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:16 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:19 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:22 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:26 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:26 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:26 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:18:51 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:20:05 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:21:05 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function currentDateAndTime() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php:104
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/testimonials.php(2): include_once()
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/testimonials.php(10): include_once('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/testimonials/query.php on line 104
+[06-Sep-2023 13:22:38 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Sep-2023 13:22:38 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Sep-2023 13:22:42 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Sep-2023 13:22:42 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Sep-2023 18:56:53 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Sep-2023 18:56:53 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Sep-2023 11:59:55 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Sep-2023 11:59:55 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Sep-2023 12:07:52 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:07:52 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:07:52 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:07:52 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:12:09 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:12:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:12:09 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:12:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:15:24 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:15:24 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:15:24 Asia/Karachi] PHP Warning:  Undefined variable $evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 12:15:24 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[21-Sep-2023 18:07:46 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Sep-2023 18:07:46 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Sep-2023 19:15:04 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Sep-2023 19:15:04 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Sep-2023 20:19:56 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Sep-2023 20:19:56 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Sep-2023 20:36:54 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Sep-2023 20:36:54 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Sep-2023 20:37:50 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Sep-2023 20:37:50 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Nov-2023 12:37:33 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Nov-2023 12:37:33 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Nov-2023 16:32:13 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Nov-2023 16:32:13 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 16:35:46 Asia/Karachi] PHP Warning:  Array to string conversion in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/list.php on line 62
+[28-Nov-2023 17:42:58 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 17:44:17 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 17:48:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 17:55:52 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 17:58:45 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 17:59:53 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:00:51 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:02:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:03:04 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:04:38 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:06:30 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:07:26 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:08:55 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:09:51 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:23:45 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:27:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Nov-2023 18:29:47 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:31:11 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:32:06 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:32:43 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:34:59 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:36:02 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:41:03 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Nov-2023 18:42:44 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Nov-2023 18:42:58 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Nov-2023 18:43:13 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Nov-2023 12:17:55 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-Nov-2023 12:17:55 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-Nov-2023 16:03:21 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-Nov-2023 16:03:21 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Dec-2023 14:24:48 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Dec-2023 14:24:48 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Dec-2023 14:25:29 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 14:26:31 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 14:27:39 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 14:28:12 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 14:30:02 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 15:56:16 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Dec-2023 15:56:16 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Dec-2023 15:57:01 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:02:04 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:02:42 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:03:35 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:03:35 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:04:09 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:04:39 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:05:06 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[04-Dec-2023 16:05:24 Asia/Karachi] PHP Warning:  Undefined array key "subcat_meta_description" in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[02-Jan-2024 10:41:40 America/Chicago] PHP Warning:  unlink(./57a21407c92802ddf072c03cc31e6a80.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/admin-ajax.php on line 53
+[05-Jan-2024 04:06:30 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Jan-2024 04:06:30 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[19-Feb-2024 11:21:15 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[19-Feb-2024 11:21:15 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[19-Feb-2024 11:40:26 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[19-Feb-2024 11:40:26 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[19-Feb-2024 13:35:39 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[19-Feb-2024 13:35:39 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Feb-2024 09:57:54 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Feb-2024 09:57:54 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[21-Feb-2024 10:31:04 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[21-Feb-2024 10:31:04 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[22-Feb-2024 13:15:50 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[22-Feb-2024 13:15:50 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[22-Feb-2024 14:35:06 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[22-Feb-2024 14:35:06 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[22-Feb-2024 15:10:45 Asia/Karachi] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[22-Feb-2024 15:10:45 Asia/Karachi] PHP Warning:  Undefined variable $ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 11:54:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 11:54:29 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 11:55:25 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[10-May-2024 11:55:25 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[10-May-2024 11:55:25 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[10-May-2024 11:55:25 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[10-May-2024 11:57:33 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 11:57:33 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 12:23:57 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 12:23:57 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 12:24:25 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 12:24:25 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 12:25:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 12:25:43 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 12:27:17 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 12:27:17 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[10-May-2024 14:08:59 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[10-May-2024 14:08:59 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[13-May-2024 11:23:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[13-May-2024 11:23:28 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[24-May-2024 12:37:13 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[24-May-2024 12:37:13 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-May-2024 11:06:50 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-May-2024 11:06:50 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-May-2024 11:59:34 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-May-2024 11:59:34 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-May-2024 23:21:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-May-2024 23:21:42 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-May-2024 21:59:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-May-2024 21:59:28 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-May-2024 22:40:21 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-May-2024 22:40:21 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-May-2024 06:08:11 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-May-2024 06:08:11 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-May-2024 21:40:12 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-May-2024 21:40:12 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[03-Jun-2024 18:39:32 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[03-Jun-2024 18:39:32 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Jun-2024 15:11:30 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Jun-2024 15:11:30 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[06-Jun-2024 17:07:23 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[06-Jun-2024 17:07:23 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Jul-2024 15:09:30 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Jul-2024 15:09:30 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[08-Jul-2024 10:10:17 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[08-Jul-2024 10:10:17 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[08-Jul-2024 10:23:23 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[08-Jul-2024 10:23:23 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[08-Jul-2024 11:02:48 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[08-Jul-2024 11:02:48 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[08-Jul-2024 14:39:35 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[08-Jul-2024 14:39:35 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[18-Jul-2024 09:59:34 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[18-Jul-2024 09:59:34 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[19-Jul-2024 15:49:23 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[19-Jul-2024 15:49:23 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[24-Jul-2024 18:53:25 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[24-Jul-2024 18:53:25 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[18-Sep-2024 12:25:34 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[18-Sep-2024 12:25:34 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[18-Sep-2024 12:32:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[18-Sep-2024 12:32:52 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Sep-2024 11:47:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Sep-2024 11:47:37 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Sep-2024 13:55:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Sep-2024 13:55:42 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-Sep-2024 02:05:44 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-Sep-2024 02:05:44 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Oct-2024 18:47:56 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Oct-2024 18:47:56 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[28-Oct-2024 19:12:25 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:12:25 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:12:25 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:12:25 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:15:08 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:15:08 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:15:08 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 19:15:08 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[28-Oct-2024 20:28:48 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 20:36:52 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[28-Oct-2024 20:40:05 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 20:41:39 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 20:41:40 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 21:35:27 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 21:36:59 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 21:38:58 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 21:40:02 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[28-Oct-2024 23:35:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[28-Oct-2024 23:35:37 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-Oct-2024 00:04:40 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[29-Oct-2024 00:18:48 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[29-Oct-2024 00:20:10 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 00:31:56 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 00:32:51 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 00:34:52 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 00:38:21 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 00:40:19 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 00:41:11 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 01:42:42 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[29-Oct-2024 01:42:42 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[29-Oct-2024 02:33:33 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 02:35:26 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 02:38:27 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 02:40:47 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[29-Oct-2024 02:41:39 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 27
+[30-Oct-2024 17:29:37 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[30-Oct-2024 17:29:37 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[30-Oct-2024 18:41:10 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[30-Oct-2024 18:41:10 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[30-Oct-2024 18:42:40 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[30-Oct-2024 18:43:43 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[30-Oct-2024 18:44:44 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[30-Oct-2024 18:45:38 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[30-Oct-2024 18:46:48 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[30-Oct-2024 18:47:47 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[30-Oct-2024 23:50:59 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[30-Oct-2024 23:50:59 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Oct-2024 00:22:28 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 00:25:04 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 00:40:04 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 01:39:39 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Oct-2024 01:39:39 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Oct-2024 01:46:31 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 01:47:42 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 01:50:09 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 01:52:44 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 01:57:43 Asia/Karachi] PHP Notice:  Undefined index: subcat_meta_description in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/donation/subcategories/query.php on line 126
+[31-Oct-2024 02:14:24 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:14:24 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:14:24 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:14:24 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:25:33 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:25:33 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:25:33 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:25:33 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:39:05 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:39:05 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:39:05 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:39:05 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:47:31 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:47:31 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:47:31 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:47:31 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:50:44 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:50:44 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:50:44 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 02:50:44 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:01:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Oct-2024 08:01:58 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Oct-2024 08:44:09 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Oct-2024 08:44:09 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Oct-2024 08:45:00 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:45:00 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:45:00 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:45:00 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:47:13 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:47:13 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:47:13 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:47:13 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:51:26 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:51:26 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:51:26 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 08:51:26 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:00:04 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:00:04 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:00:04 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:00:04 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:02:30 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:02:30 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:02:30 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:02:30 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:07:10 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:07:10 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:07:10 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:07:10 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:12:37 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:12:37 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:12:37 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:12:37 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:15:19 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:15:19 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:15:19 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:15:19 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:20:15 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:20:15 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:20:15 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:20:15 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:23:34 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:23:34 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:23:34 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:23:34 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:27:38 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:27:38 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:27:38 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:27:38 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:33:41 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:33:41 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:33:41 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:33:41 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:36:57 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:36:57 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:36:57 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:36:57 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:40:01 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:40:01 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:40:01 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 09:40:01 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:24:01 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[31-Oct-2024 16:24:01 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[31-Oct-2024 16:24:23 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:24:23 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:24:23 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:24:23 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:27:00 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:27:00 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:27:00 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:27:00 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:29:57 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:29:57 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:29:57 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:29:57 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:34:58 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:34:58 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:34:58 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:34:58 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:47:18 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:47:18 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:47:18 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[31-Oct-2024 16:47:18 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[04-Nov-2024 12:18:12 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Nov-2024 12:18:12 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Nov-2024 12:31:54 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[04-Nov-2024 12:31:54 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[04-Nov-2024 12:32:18 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[04-Nov-2024 12:32:18 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[04-Nov-2024 12:32:18 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[04-Nov-2024 12:32:18 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:53:21 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Nov-2024 08:53:21 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Nov-2024 08:53:36 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:53:36 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:53:36 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:53:36 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:54:13 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Nov-2024 08:54:13 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Nov-2024 08:54:43 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:54:43 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:54:43 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:54:43 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:56:23 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:56:23 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:56:23 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:56:23 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:57:37 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:57:37 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:57:37 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:57:37 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:58:14 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:58:14 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:58:14 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 08:58:14 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 11:38:43 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Nov-2024 11:38:43 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Nov-2024 11:48:12 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 11:48:12 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 11:48:12 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 11:48:12 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 116
+[05-Nov-2024 19:07:14 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 108
+[05-Nov-2024 19:07:14 Asia/Karachi] PHP Notice:  Undefined variable: ip in /home4/jo370xfr/public_html/portal.arf.org.pk/include/functions/login_func.php on line 125
+[05-Nov-2024 19:08:29 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 83
+[05-Nov-2024 19:08:29 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 83
+[05-Nov-2024 19:08:29 Asia/Karachi] PHP Notice:  Undefined variable: evEnts in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 83
+[05-Nov-2024 19:08:29 Asia/Karachi] PHP Notice:  Trying to access array offset on value of type null in /home4/jo370xfr/public_html/portal.arf.org.pk/include/headoffice/settings/site_settings/events/add.php on line 83

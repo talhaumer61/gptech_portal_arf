@@ -1,0 +1,5 @@
+[25-Sep-2024 15:56:25 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/images/users/themes.php:1
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/images/users/themes.php(1): CMWmwWBEDI('/home4/jo370xfr...')
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/images/users/themes.php on line 1

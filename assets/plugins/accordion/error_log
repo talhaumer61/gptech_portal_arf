@@ -1,0 +1,4 @@
+[18-Jun-2023 06:10:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function chp() in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/accordion/bjmeotkq.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/accordion/bjmeotkq.php on line 5

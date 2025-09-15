@@ -1,0 +1,33 @@
+[30-Mar-2023 02:31:51 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl:229
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl(229): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php(60): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl on line 229
+[30-Mar-2023 05:00:12 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl:239
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl(239): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php(60): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl on line 239
+[30-Mar-2023 06:32:12 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl:244
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl(244): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php(60): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl on line 244
+[30-Mar-2023 08:14:05 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl:252
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl(252): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php(60): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl on line 252
+[04-Apr-2023 05:17:26 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl on line 93
+[19-May-2023 17:21:50 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[19-May-2023 17:21:50 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[28-Nov-2023 08:04:55 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[28-Nov-2023 08:04:56 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[30-May-2024 03:46:03 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[06-Jun-2024 01:20:19 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[07-Jun-2024 07:32:50 America/Chicago] PHP Warning:  unlink(./31b1f87fe52e5204ef9a9aa447e3129e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/dhjnjaxp.php on line 63
+[12-Oct-2024 02:56:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/bootstrap-editable/31b1f87fe52e5204ef9a9aa447e3129e.pl on line 1

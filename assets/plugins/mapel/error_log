@@ -1,0 +1,32 @@
+[30-Mar-2023 02:31:55 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl:229
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl(229): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php(45): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl on line 229
+[30-Mar-2023 05:00:09 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl:239
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl(239): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php(45): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl on line 239
+[30-Mar-2023 06:32:10 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl:244
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl(244): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php(45): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl on line 244
+[30-Mar-2023 08:14:08 America/Chicago] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl:252
+Stack trace:
+#0 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl(252): array_merge(false, false)
+#1 /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php(45): include('/home4/jo370xfr...')
+#2 {main}
+  thrown in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/b83e05ae18860736e1c861f22ba38c5e.pl on line 252
+[04-Apr-2023 05:17:27 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[19-May-2023 17:21:56 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[19-May-2023 17:21:56 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[13-Jun-2023 08:48:49 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[27-Jun-2023 21:33:53 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[27-Jun-2023 21:33:53 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[12-Oct-2023 03:34:16 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48
+[11-Sep-2024 07:44:33 America/Chicago] PHP Warning:  unlink(./b83e05ae18860736e1c861f22ba38c5e.pl): No such file or directory in /home4/jo370xfr/public_html/portal.arf.org.pk/assets/plugins/mapel/fsbrnawv.php on line 48

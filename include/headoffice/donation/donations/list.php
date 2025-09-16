@@ -1,6 +1,6 @@
 <?php
     $condition = array ( 
-                        'select' 	=> ''.DONATIONS.'.id, '.DONATIONS.'.status, '.DONATIONS.'.id_type, '.DONATIONS.'.id_added, '.DONATIONS.'.dated, '.DONATIONS.'.fullname, '.DONATIONS.'.cnic, '.DONATIONS.'.phone, '.DONATIONS.'.email, '.DONATIONS.'.referrals, '.DONATIONS.'.amount, '.DONATIONS.'.is_byfast, '.SUB_CATEGORIES.'.subcat_name, '.PACKAGES_CAUSES.'.pc_title',
+                        'select' 	=> ''.DONATIONS.'.is_by_portal,'.DONATIONS.'.id_donor,'.DONATIONS.'.id, '.DONATIONS.'.status, '.DONATIONS.'.id_type, '.DONATIONS.'.id_added, '.DONATIONS.'.dated, '.DONATIONS.'.fullname, '.DONATIONS.'.cnic, '.DONATIONS.'.phone, '.DONATIONS.'.email, '.DONATIONS.'.referrals, '.DONATIONS.'.amount, '.DONATIONS.'.is_byfast, '.SUB_CATEGORIES.'.subcat_name, '.PACKAGES_CAUSES.'.pc_title',
                         'join' 		=> 'LEFT JOIN '.SUB_CATEGORIES.' ON '.SUB_CATEGORIES.'.subcat_id = '.DONATIONS.'.id_pc_subcat
                                         LEFT JOIN '.PACKAGES_CAUSES.' ON '.PACKAGES_CAUSES.'.pc_id = '.DONATIONS.'.id_pc_subcat',
                         'where' 	=> array( 
@@ -13,6 +13,7 @@
                         'return_type' 	=> 'all' 
                     ); 
     $donations = $dblms->getRows(DONATIONS, $condition);
+    // echo '<pre>'; print_r($donations); exit;
     echo '
     <div class="row">
         <div class="col-12 col-sm-12">
@@ -48,6 +49,20 @@
                                 if($donations):
                                     $sr = 0;
                                     foreach($donations as $row):
+                                        if($row['is_by_portal'] == '1') {
+                                            // DONORS
+                                            $conCat = array ( 
+                                                                'select'        =>  'dv_id, dv_full_name,dv_donor_id, dv_email, dv_phone',
+                                                                'where'         =>  array( 
+                                                                                            'is_deleted'     => 0
+                                                                                            ,'dv_status' => 1
+                                                                                            ,'dv_id' => $row['id_donor']
+                                                                                        ), 
+                                                                'limit' 		=>  1,
+                                                                'return_type'   =>  'single'
+                                                            ); 
+                                            $DONOR = $dblms->getRows(DONORS_VOLUNTREES, $conCat);
+                                        }
                                         $sr++;
                                         echo '
                                         <tr>
@@ -56,11 +71,11 @@
                                             <td class="text-muted fs-14 fw-semibold">
                                                 <div class="d-flex align-items-center">
                                                     <div class="user-details ms-2">
-                                                        <h6 class="mb-0">'.$row['fullname'].'</h6>
-                                                        <span class="text-muted fs-12">'.$row['email'].'</span>
+                                                        <h6 class="mb-0">'.($row['is_by_portal'] == '1'? $DONOR['dv_full_name']:$row['fullname']).'</h6>
+                                                        <span class="text-muted fs-12">'.($row['is_by_portal'] == '1'? $DONOR['dv_email']:$row['email']).'</span>
                                                     </div>
                                                 </div>
-                                            <td class="text-muted fs-14 text-center">'.$row['phone'].'</td>
+                                            <td class="text-muted fs-14 text-center">'.($row['is_by_portal'] == '1'? $DONOR['dv_phone']:$row['phone']).'</td>
                                             <td class="text-muted fs-14 text-center">'.$row['amount'].'</td>
                                             <td class="text-muted fs-14 text-center">'.($row['id_type'] == '3' ? $row['subcat_name'] : $row['pc_title']).'</td>
                                             <td class="text-muted fs-14 text-center">'.get_status($row['status']).'</td>

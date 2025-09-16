@@ -37,7 +37,13 @@
                             <div class="col">
                                 <div class="form-group">
                                     <label class="form-label">Donor ID <span class="text-danger">*</span></label>
-                                    <input type="text" name="dv_donor_id" class="form-control" required>
+                                    <input type="text" name="dv_donor_id" id="dv_donor_id" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="form-group">
+                                    <label class="form-label">Password <span class="text-danger">*</span></label>
+                                    <input type="text" name="donor_pass" id="donor_pass" class="form-control" required>
                                 </div>
                             </div>
                         </div>

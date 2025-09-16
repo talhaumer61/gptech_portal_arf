@@ -40,9 +40,32 @@
 
 			$sqllms		=	$dblms->insert(DONORS_VOLUNTREES, $values);
 
-			if($sqllms) { 
-
+			if($sqllms) {
 				$dv_id   =	$dblms->lastestid();
+
+				//HASHING
+				$salt = dechex(mt_rand(0, 2147483647)) . dechex(mt_rand(0, 2147483647));
+				$pass = $_POST['donor_pass'];
+				$password = hash('sha256', $pass . $salt);
+				for ($round = 0; $round < 65536; $round++) {
+					$password = hash('sha256', $password . $salt);
+				}
+				$values = array(
+					'adm_status'      => '1'
+					,'adm_type'       => '1'
+					,'adm_logintype'  => '3'
+					,'adm_username'   => cleanvars($_POST['dv_donor_id'])
+					,'adm_salt'       => cleanvars($salt)
+					,'adm_userpass'   => cleanvars($password)
+					,'adm_fullname'   => cleanvars($_POST['dv_full_name'])
+					,'adm_email'      => cleanvars($_POST['dv_email'])
+					,'adm_phone'      => cleanvars($_POST['dv_phone'])
+					,'id_added'       => cleanvars($_SESSION['userlogininfo']['LOGINIDA'])
+					,'date_added'     => date('Y-m-d H:i:s')
+				);
+
+				$sqllms = $dblms->insert(ADMINS, $values);
+				$adm_id   =	$dblms->lastestid();
 
 				// PROFILE IMAGE
 				if(!empty($_FILES['dv_file']['name'])) {
@@ -55,12 +78,19 @@
 						$img_fileName	= to_seo_url(cleanvars($_POST['dv_full_name'])).'-'.$dv_id.".".($extension);
 						$dataImage = array(
 											'dv_file'	=>	$img_fileName, 
+											'id_login_id'	=>	$adm_id, 
 										  );
 						$sqllmsUpdateCNIC = $dblms->Update(DONORS_VOLUNTREES, $dataImage, "WHERE dv_id = '".$dv_id."'");
+						
 						unset($sqllmsUpdateCNIC);
 						$mode = '0644';
 						move_uploaded_file($_FILES['dv_file']['tmp_name'],$originalImage);
 						chmod ($originalImage, octdec($mode));
+
+						$dataImage = array(
+											'adm_photo'	=>	$img_fileName, 
+										  );
+						$sqllmsUpdateCNIC = $dblms->Update(ADMINS, $dataImage, "WHERE adm_id = '".$adm_id."'");
 					}
 	
 				}

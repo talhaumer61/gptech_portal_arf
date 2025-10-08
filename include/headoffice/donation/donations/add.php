@@ -119,8 +119,17 @@
                                     </select>
                                 </div>
                             </div>
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label class="form-label">Image <span class="text-danger">*</span></label>
+                                        <input type="file" name="image" accept="image/*" class="dropify" data-bs-height="100" required/>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
+                    
                     <div class="expanel-footer modal-footer">
                         <button type="submit" class="btn btn-primary" name="submit_add">Add Donation</button> 
                         <a href="packages_causes.php" class="btn btn-danger">Cancel</a>

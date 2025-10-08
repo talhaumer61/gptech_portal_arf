@@ -20,6 +20,27 @@
 			if($sqllms) { 
 
 				$id    =	$dblms->lastestid();
+				$randString = substr(bin2hex(random_bytes(8)), 0, 8);
+				if(!empty($_FILES['image']['name'])) {
+
+					$path_parts 	= pathinfo($_FILES["image"]["name"]);
+					$extension 		= strtolower($path_parts['extension']);
+					if(in_array($extension , array('jpeg','jpg', 'png', 'JPEG', 'JPG', 'PNG'))) {
+						$img_dir 		= 'uploads/images/donation_slips/';
+						$originalImage	= $img_dir.to_seo_url(cleanvars($randString)).'-'.$id.".".($extension);
+						$img_fileName	= to_seo_url(cleanvars($randString)).'-'.$id.".".($extension);
+						$dataImage = array(
+											'image'	=>	$img_fileName, 
+										  );
+						$sqllmsUpdateCNIC = $dblms->Update(DONATIONS, $dataImage, "WHERE id = '".$id."'");
+						
+						unset($sqllmsUpdateCNIC);
+						$mode = '0644';
+						move_uploaded_file($_FILES['image']['tmp_name'],$originalImage);
+						chmod ($originalImage, octdec($mode));
+					}
+	
+				}
 
 				$remarks = 'Add Donation#:'.$id ;
 				$values = array (
@@ -57,7 +78,28 @@
 		
 			$sqllms = $dblms->Update(DONATIONS , $values , "WHERE id = '".cleanvars($_POST['id'])."'");
 
-			if($sqllms) { 
+			if($sqllms) {
+				
+				if(!empty($_FILES['image']['name'])) {
+					$randString = substr(bin2hex(random_bytes(8)), 0, 8);
+					$path_parts 	= pathinfo($_FILES["image"]["name"]);
+					$extension 		= strtolower($path_parts['extension']);
+					if(in_array($extension , array('jpeg','jpg', 'png', 'JPEG', 'JPG', 'PNG'))) {
+						$img_dir 		= 'uploads/images/donation_slips/';
+						$originalImage	= $img_dir.to_seo_url(cleanvars($randString)).'-'.$_POST['id'].".".($extension);
+						$img_fileName	= to_seo_url(cleanvars($randString)).'-'.$_POST['id'].".".($extension);
+						$dataImage = array(
+											'image'	=>	$img_fileName, 
+										  );
+						$sqllmsUpdateCNIC = $dblms->Update(DONATIONS, $dataImage, "WHERE id = '".$_POST['id']."'");
+						
+						unset($sqllmsUpdateCNIC);
+						$mode = '0644';
+						move_uploaded_file($_FILES['image']['tmp_name'],$originalImage);
+						chmod ($originalImage, octdec($mode));
+					}
+	
+				} 
 				
 				$remarks = 'Update Donation#:'.cleanvars($_POST['id']);
 				$values = array (

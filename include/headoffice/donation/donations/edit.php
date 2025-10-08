@@ -40,6 +40,7 @@
                 </div>
                 <form action="donations.php" enctype="multipart/form-data" autocomplete="off" method="post" accept-charset="utf-8">  
                     <div class="card-body create-project-main">
+                        <input type="hidden" name="id" value="'.$row['id'].'" class="form-control" required>
                         <div class="row">
                             <div class="col">
                                 <div class="form-group">
@@ -128,6 +129,14 @@
                                     endforeach;
                                     echo'
                                 </select>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <div class="form-group">
+                                    <label class="form-label">Image <span class="text-danger">*</span></label>
+                                    <input type="file" name="image" accept="image/*" class="dropify" data-bs-height="100" required/>
+                                </div>
                             </div>
                         </div>
                     </div>

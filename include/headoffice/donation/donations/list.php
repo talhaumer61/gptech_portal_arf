@@ -41,6 +41,7 @@
                                     <th class="bg-transparent border-bottom-0 wp-10 text-center">Phone</th>
                                     <th class="bg-transparent border-bottom-0 wp-10 text-center">Amount</th>
                                     <th class="bg-transparent border-bottom-0 wp-10">Purpose</th>
+                                    <th class="bg-transparent border-bottom-0 text-center  wp-7">Method</th>
                                     <th class="bg-transparent border-bottom-0 text-center  wp-7">Status</th>
                                     <th class="bg-transparent border-bottom-0 text-center  wp-7">Action</th>
                                 </tr>
@@ -78,6 +79,7 @@
                                             <td class="text-muted fs-14 text-center">'.($row['is_by_portal'] == '1'? $DONOR['dv_phone']:$row['phone']).'</td>
                                             <td class="text-muted fs-14 text-center">'.$row['amount'].'</td>
                                             <td class="text-muted fs-14 text-center">'.($row['id_type'] == '3' ? $row['subcat_name'] : $row['pc_title']).'</td>
+                                            <td class="text-muted fs-14 text-center">'.($row['is_by_portal'] == 1? '<span class="badge bg-warning">Portal</span>':'<span class="badge bg-info">Payfast</span>').'</td>
                                             <td class="text-muted fs-14 text-center">'.get_status($row['status']).'</td>
                                             <td class="text-muted fs-14 text-center">';
                                                 if($row['id_added'] != '0' && $row['is_byfast'] == '0'){
